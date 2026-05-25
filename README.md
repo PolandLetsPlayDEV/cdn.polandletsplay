@@ -1,0 +1,2 @@
+# cdn.polandletsplay
+My cdn
